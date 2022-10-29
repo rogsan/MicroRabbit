@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IjUrkUxiyYPevaM9YsYcKlSInYHkjTCdiwHCsdYMESitpgvV5dMmij+B75DaCwiUBKwzJhuoEzsYD6HUtispDw==",
+  "dgSpecHash": "XTBEK1cE+zbI7dG4Akx2Tdxv+b38d9Qt6SCgXxJEK52IOBrvjCyTaESVqRzrnygKgok0MM4La5jDAZgLCOTFEw==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\Courses\\Udemy\\RabbitMQ\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
